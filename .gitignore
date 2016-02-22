@@ -31,6 +31,7 @@ node_modules
 #IDE configuration files
 .idea
 .vscode
+*.suo
 
 dist
 dev
